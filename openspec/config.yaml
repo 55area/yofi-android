@@ -1,0 +1,17 @@
+schema: spec-driven
+
+context: |
+  Read the repository AGENTS.md and the applicable subproject instructions and contracts.
+  Language: English
+  All artifacts must be written in English.
+  Keep OpenSpec structural headings and SHALL/MUST keywords in English.
+  State which subprojects each change affects. The Android pilot comes first.
+  The www landing page is planned after Android development.
+
+rules:
+  proposal:
+    - State the intended outcome, scope, exclusions, and affected subprojects.
+  specs:
+    - Describe observable behavior and relevant failure cases in acceptance scenarios.
+  tasks:
+    - Link behavior tasks to their acceptance scenarios and name the evidence needed.

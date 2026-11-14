@@ -25,12 +25,23 @@ Each subproject keeps its source and build configuration in its own directory. T
 - [Product discovery notes](docs/Yo-Fi_5PRO.md) capture the original concept in Portuguese. The first Android journey and its acceptance criteria are pending discovery.
 - [Repository instructions](AGENTS.md) cover shared conventions, including English for repository content and localized app text.
 
+## Data Privacy
+
+- **No personal data** is collected
+- **No cookies** are used for tracking
+- Test results are stored **only in your browser's localStorage**
+- **No server-side** storage of individual responses
+- Users can clear all data by clearing browser storage
+
 ## License
 
-Yo-Fi is licensed under the [GNU General Public License v3.0](LICENSE).
+This project is licensed under the **GPL v3.0 License**.
+
+See [LICENSE](.etc/LICENSE) for more details.
 
 ---
 
 <p align="center"><small>
-Copyleft © 2026 <a href="https://x.com/teknolista">Raul Bras</a>. Made in Brazil.
+Copyleft © 2026 <a href="https://x.com/teknolista">Raul Bras</a> 🇧🇷 Published under the GPL v3.0 license. <br>
+Made in Brazil, in the Land of Oz (SP) , with 🌭 🍕 and AI 🤖.
 </small></p>
